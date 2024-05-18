@@ -7,7 +7,7 @@
 ## Screenshots
 
 ### Logo
-![Main Page](https://cdn.discordapp.com/attachments/1120827766582022236/1241535655624835104/CT_POLICE.png?ex=664a8dae&is=66493c2e&hm=8b4e6e3aeccec41350855d48b61d902dcf9df8837bb081c3561069b1e9fa6e36&)
+![Main Page](https://cdn.scriptbullet.com.tr/ayguun/script_hub_assets/big_banner.png)
 
 ### Lisance
 yokki 😎
