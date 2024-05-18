@@ -1,9 +1,11 @@
 # Script-Bullet-Web
 Script Bullet Web | Modded OB2
-# Proje Adı
-Kısa bir proje açıklaması
+## Kurulum
 
-![Proje Logosu](link/to/logo.png)
+1. Depoyu klonlayın:
+   ```bash
+   git clone https://github.com/kullaniciadi/projeadi.git
+
 
 
 ![image](https://github.com/ScriptHUBofficial/Script-Bullet-Web/assets/106864876/2084eeed-4d2e-4b1a-807f-31b0ad7d390c)
