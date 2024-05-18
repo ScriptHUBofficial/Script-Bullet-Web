@@ -2,9 +2,18 @@
 Script Bullet Web | Modded OB2
 ## Kurulum
 
-1. Depoyu klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/projeadi.git
+
+### 4. **Kullanım**
+- Projenizin nasıl kullanılacağını gösterin. Örnek kod blokları veya komutlar ekleyin.
+
+```markdown
+## Kullanım
+
+Bir örnek komut veya kod bloğu:
+```python
+import projeadi
+
+projeadi.ozellik()
 
 
 
