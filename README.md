@@ -1,9 +1,22 @@
-## Script Bullet Web 
+# Script Bullet Web
 
-!Offical Web Site : https://scriptbullet.com.tr
-!Offical Blog : https://blog.scriptbullet.com.tr
+## Official Links
+[![Website Badge](https://img.shields.io/badge/Website-Script%20Bullet-blue)](https://scriptbullet.com.tr)
+[![Blog Badge](https://img.shields.io/badge/Blog-Script%20Bullet-green)](https://blog.scriptbullet.com.tr)
 
-## Pictures
+## Screenshots
+
+### Main Page
+![Main Page](link/to/main-page-screenshot.png)
+
+### Feature X
+![Feature X](link/to/feature-x-screenshot.png)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/repository.git
+
 
 ![image](https://github.com/ScriptHUBofficial/Script-Bullet-Web/assets/106864876/cb2190dc-c46c-44fc-84ff-ebf70470b906)
 ![image](https://github.com/ScriptHUBofficial/Script-Bullet-Web/assets/106864876/c4459e79-3c19-4cb7-bc47-56dd77724704)
