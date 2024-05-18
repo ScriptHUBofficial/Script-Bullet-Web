@@ -1,7 +1,7 @@
 ## Script Bullet Web 
 
-Offical Web Site : https://scriptbullet.com.tr
-Offical Blog : https://blog.scriptbullet.com.tr
+-Offical Web Site : https://scriptbullet.com.tr
+-Offical Blog : https://blog.scriptbullet.com.tr
 
 ## Pictures
 
