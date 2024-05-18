@@ -13,9 +13,9 @@
 yokki 😎
 
 ## Installation
-1. Clone the repository:
+1. Contact Adress:
    ```bash
-   git clone https://github.com/username/repository.git
+   https://t.me/scripthubofficial
 
 
 ![image](https://github.com/ScriptHUBofficial/Script-Bullet-Web/assets/106864876/cb2190dc-c46c-44fc-84ff-ebf70470b906)
