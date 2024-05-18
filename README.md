@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-Script%20Bullet-blue)](https://scriptbullet.com.tr)
 [![Blog Badge](https://img.shields.io/badge/Blog-Script%20Bullet-green)](https://blog.scriptbullet.com.tr)
 
-### Lisance
+### Licance
 yokki 😎
 
 ## Contact
